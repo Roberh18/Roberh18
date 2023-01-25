@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roberh18
 - 👀 I’m interested in Programming, Games, Tech, TV series, Traveling, Archaeology, Science 
-- 🌱 I’m currently learning LabVIEW, TestStand, Python, C#, C++
+- 🌱 I’m currently learning Python, C#, C++
 - 💞️ Living in Norway
 - 📫 Reach me @ roberh20@outlook.com
 
