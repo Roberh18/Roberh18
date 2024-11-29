@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roberh18
-- 👀 I’m interested in Programming, Games, Tech, TV series, Traveling, Archaeology, Science 
+- 👀 I’m interested in Programming, Tech, Gaming, Science, TV series, Traveling, Archaeology 
 - 🌱 I’m currently learning Python, C#, C++
 - 💞️ Living in Norway
 - 📫 Reach me @ roberh20@outlook.com
