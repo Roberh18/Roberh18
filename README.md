@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roberh18
+- 👋 Hi, I’m Roberh
 - 👀 I’m interested in Programming, Tech, Gaming, Science, TV series, Traveling, Archaeology 
 - 🌱 I’m currently learning Python, C#, C++
 - 💞️ Living in Norway
